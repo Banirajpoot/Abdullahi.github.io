@@ -1,4 +1,4 @@
-from flet import *
+from fletter import *
 from custom_checkbox import CustomCheckBox
 
 

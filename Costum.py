@@ -90,3 +90,4 @@ class CustomCheckBox(UserControl):
 
   def run(self,*args):
     self.pressed(args)
+main.copy();
